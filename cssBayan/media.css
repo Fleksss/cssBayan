@@ -1,0 +1,17 @@
+@media(max-width: 820px) {
+  .img-wrap{
+    max-width: 700px;
+  }
+  .list-element label{
+    font-size: 1rem;
+  }
+  .title{
+    font-size: 40px;
+    font-weight: 600;
+  }
+}
+@media(max-width: 320px) {
+  .img-wrap{
+    max-height: 400px;
+  }
+}
